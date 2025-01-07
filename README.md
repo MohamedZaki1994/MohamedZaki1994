@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MohamedZaki1994?theme=light&font=Lemonada)
 
 
