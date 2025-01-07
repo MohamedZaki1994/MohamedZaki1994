@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/MohamedZaki1994?theme=light&font=Lemonada))
+
+
 <!--
 **MohamedZaki1994/MohamedZaki1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
