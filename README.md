@@ -3,7 +3,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MohamedZaki1994?theme=light&font=Lemonada)
 
 <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2000&pause=500&color=0000FF&background=FFFFFF00&width=435&lines=Mohamed+Zaki;Senior+iOS+Engineer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2000&pause=500&color=00FFFF&background=FFFFFF00&width=435&lines=Mohamed+Zaki;Senior+iOS+Engineer" alt="Typing SVG">
 </a>
 
 
