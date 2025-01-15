@@ -12,10 +12,10 @@
 - **Tools:** Xcode, Git, Fastlane, XCTest
 
 ## 📺 My YouTube Channel
-📌 Check out my [YouTube channel](https://youtube.com/@mohamedzaki4056)
+[YouTube channel](https://youtube.com/@mohamedzaki4056)
 
-## 💼My LinkedIn
-[Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-zaki-603b38124/)
+## 💼M y LinkedIn
+[LinkedIn Profile](https://www.linkedin.com/in/mohamed-zaki-603b38124/)
 <!--
 **MohamedZaki1994/MohamedZaki1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
