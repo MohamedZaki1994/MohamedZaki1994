@@ -2,7 +2,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MohamedZaki1994?theme=light&font=Lemonada)
 
-# <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=F75C7E&background=FFFFFF00&width=435&lines=Mohamed+Zaki;Senior+iOS+Engineer;SwiftUI+Expert" alt="Typing SVG"></a>
+# <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=F75C7E&background=FFFFFF00&width=435&lines=Mohamed+Zaki;Senior+iOS+Engineer;iOS+Expert" alt="Typing SVG"></a>
 
 
 ## 🛠️ Technologies & Tools
