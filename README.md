@@ -4,6 +4,10 @@
 
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2000&pause=500&color=0000FF&background=FFFFFF00&width=435&lines=Mohamed+Zaki;Senior+iOS+Engineer"%20alt="Typing%20SVG"></a>
 
+<a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2000&pause=500&color=0000FF&background=FFFFFF00&width=435&lines=Mohamed+Zaki;Senior+iOS+Engineer" alt="Typing SVG">
+</a>
+
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Swift, Objective-C
